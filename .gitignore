@@ -30,7 +30,6 @@ effective-settings.xml
 *.log
 *.lck
 *.jar
-*.info
 *.png
 *.properties
 */dependency-reduced-pom.xml
