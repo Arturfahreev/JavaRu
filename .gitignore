@@ -30,7 +30,6 @@ effective-settings.xml
 *.log
 *.lck
 *.jar
-*.jrtc
 *.info
 *.png
 *.properties
