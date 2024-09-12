@@ -35,5 +35,6 @@ effective-settings.xml
 *.png
 *.properties
 */dependency-reduced-pom.xml
+.DS_Store
 
 
